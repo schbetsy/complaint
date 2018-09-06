@@ -1,0 +1,13 @@
+{
+  "name": "django-assets",
+  "homepage": "https://github.com/cfpb/django-assets",
+  "_release": "a21abf69ab",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a21abf69abe58cf8dc3fca971b49ac542d676ae2"
+  },
+  "_source": "https://github.com/cfpb/django-assets.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/cfpb/django-assets.git"
+}

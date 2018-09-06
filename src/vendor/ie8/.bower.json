@@ -1,0 +1,28 @@
+{
+  "name": "IE8",
+  "description": "some damn DOM fix for this damned browser",
+  "main": "build/ie8.js",
+  "ignore": [
+    "node_modules",
+    "src",
+    "template",
+    "test",
+    ".gitignore",
+    ".npmignore",
+    ".travis.yml",
+    "index.html",
+    "Makefile",
+    "bench.html"
+  ],
+  "homepage": "https://github.com/WebReflection/ie8",
+  "version": "0.8.1",
+  "_release": "0.8.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.8.1",
+    "commit": "4de2c6932bf2f357dfc8c634b4cd2dec93fc3dd4"
+  },
+  "_source": "https://github.com/WebReflection/ie8.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/WebReflection/ie8.git"
+}
